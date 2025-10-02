@@ -1,7 +1,7 @@
 ﻿using System;
 using System.Text;
 
-public class exercicio3
+public class exercicio4
 {
     public static void Main(string[] args)
     {
