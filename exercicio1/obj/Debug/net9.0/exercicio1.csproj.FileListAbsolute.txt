@@ -1,0 +1,15 @@
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\bin\Debug\net9.0\exercicio1.exe
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\bin\Debug\net9.0\exercicio1.deps.json
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\bin\Debug\net9.0\exercicio1.runtimeconfig.json
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\bin\Debug\net9.0\exercicio1.dll
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\bin\Debug\net9.0\exercicio1.pdb
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\exercicio1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\exercicio1.AssemblyInfoInputs.cache
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\exercicio1.AssemblyInfo.cs
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\exercicio1.csproj.CoreCompileInputs.cache
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\exercicio1.sourcelink.json
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\exercicio1.dll
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\refint\exercicio1.dll
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\exercicio1.pdb
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\exercicio1.genruntimeconfig.cache
+C:\Users\T-GAMER\OneDrive\Documentos\GitHub\Atividades-Arquivos\exercicio1\obj\Debug\net9.0\ref\exercicio1.dll
